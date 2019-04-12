@@ -1,0 +1,14 @@
+.nav div a{
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: aliceblue;
+}
+.nav{
+    color: aliceblue;
+}
+.nav div a i{
+    size: 3x;
+}
+#header{
+    background: url(imgs/header.jpeg);
+}
